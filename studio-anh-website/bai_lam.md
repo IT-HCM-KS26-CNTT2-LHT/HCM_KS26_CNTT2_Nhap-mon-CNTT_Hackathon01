@@ -2,7 +2,7 @@
 
 - **Mã đề:** 15
 - **Họ tên:** LÊ HOÀNG THÁI
-- **Lớp:** CNTT2
+- **Lớp:** HCM_KS26_CNTT2
 - **Link repository:** https://github.com/IT-HCM-KS26-CNTT2-LHT/HCM_KS26_CNTT2_Nhap-mon-CNTT_Hackathon01.git
 - **Hệ điều hành (Windows/macOS):** 
 
