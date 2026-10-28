@@ -1,9 +1,9 @@
 # BÀI LÀM – HACKATHON 01
 
 - **Mã đề:** 15
-- **Họ tên:** 
-- **Lớp:** 
-- **Link repository:** 
+- **Họ tên:** LÊ HOÀNG THÁI
+- **Lớp:** CNTT2
+- **Link repository:** https://github.com/IT-HCM-KS26-CNTT2-LHT/HCM_KS26_CNTT2_Nhap-mon-CNTT_Hackathon01.git
 - **Hệ điều hành (Windows/macOS):** 
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
