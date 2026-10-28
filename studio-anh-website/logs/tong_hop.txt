@@ -1,0 +1,13 @@
+=== TONG HOP LOG ===
+
+2026-05-28 07:29:30 [ERROR] Tai anh len may chu that bai
+2026-05-28 07:44:30 [ERROR] Tai anh len may chu that bai
+2026-05-28 07:47:30 [ERROR] Het thoi gian cho (timeout)
+2026-05-28 07:50:30 [ERROR] Khong tim thay trang /album-moi (404)
+2026-05-28 08:11:30 [ERROR] Khong tim thay trang /album-moi (404)
+2026-05-28 08:14:30 [ERROR] Het thoi gian cho (timeout)
+2026-05-28 08:17:30 [ERROR] Tai anh len may chu that bai
+
+
+DEM DONG : 
+7
